@@ -14,7 +14,8 @@ Este repositorio fue creado para usarse durante la Winter Jam 2022.
 >   - Inti Fernández
 
 ###### Sonido
->   - Gonzalo Martínez
+>   - Claudio Vignone
 
 ###### Gráficos
 >   - Matias Faviere
+>   - Bruna Sosa
