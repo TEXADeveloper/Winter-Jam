@@ -18,3 +18,6 @@ Este repositorio fue creado para usarse durante la Winter Jam 2022.
 
 ###### Gráficos
 >   - Matias Faviere
+
+Nos movimos a Gitlab:
+https://gitlab.com/ggmartinez1/winterjam2022/-/tree/master
