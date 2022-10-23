@@ -3,7 +3,7 @@ Este repositorio fue creado para usarse durante la Winter Jam 2022.
 
 ## Equipo
 
-##### ***Jhon Games*** está conformado por:
+##### ***DUM Company*** está conformado por:
 
 ###### Producción y Game Design
 >   - Braiam Rodriguez
@@ -14,10 +14,13 @@ Este repositorio fue creado para usarse durante la Winter Jam 2022.
 >   - Inti Fernández
 
 ###### Sonido
->   - Gonzalo Martínez
+>   - Claudio Vignone
 
 ###### Gráficos
 >   - Matias Faviere
+>   - Bruna Sosa
+>   - Danilo De Los Reyes
+
 
 Nos movimos a Gitlab:
 https://gitlab.com/ggmartinez1/winterjam2022/-/tree/master
